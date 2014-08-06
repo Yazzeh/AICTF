@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerAI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerAI.cs" Line="429" Column="56" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="167" Column="49" />
+      <File FileName="Assets\Scripts\Flag.cs" Line="58" Column="1" />
+      <File FileName="Assets\Scripts\HomeBase.cs" Line="18" Column="97" />
+      <File FileName="Assets\Scripts\Node.cs" Line="14" Column="1" />
+      <File FileName="Assets\Scripts\Circles.cs" Line="28" Column="1" />
+      <File FileName="Assets\Scripts\Targetable.cs" Line="10" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
